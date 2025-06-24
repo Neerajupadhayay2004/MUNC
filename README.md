@@ -12,8 +12,7 @@
 | **Stock Alerts** | Automated notifications when stock reaches threshold | Context API + localStorage |
 | **Dark/Light Mode** | System preference detection with manual override | next-themes + Tailwind CSS |
 
-### 🖥️ Admin Dashboard
-```mermaid
+mermaid
 graph TD
     A[Login] --> B[Dashboard]
     B --> C[Products]
