@@ -1,5 +1,7 @@
 # 🏢 MUN-C Inventory Management System
 
+[Live Demo] (https://munc02.netlify.app/)
+
 [![Live Demo](https://munc02.netlify.app/)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
 ![License](https://img.shields.io/badge/License-MIT-success)
