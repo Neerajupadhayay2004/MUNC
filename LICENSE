@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Neeraj Upadhyay (https://github.com/Neerajupadhayay2004)
+Copyright (c) 2024 Neeraj Upadhyay
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9,84 +9,103 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-1. **Inclusion of Original License**  
-   The above copyright notice and this permission notice shall be included in all
-   copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-2. **No Warranty**  
-   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-   SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ---
 
-## 📜 **Detailed Explanation for Developers**
+## Additional License Information
 
-### ✅ **What You Can Do:**
-- **Use commercially**: Deploy in business environments
-- **Modify freely**: Adapt the code to your needs
-- **Distribute**: Share with others (even sell copies)
-- **Sublicense**: Include in your own projects
-- **Private use**: No obligation to share modifications
+### Third-Party Libraries
 
-### ⚠️ **What You Must Do:**
-- **Preserve notices**: Keep original copyright/license
-- **Add your copyright**: For significant modifications
+This project uses several third-party libraries, each with their own licenses:
 
-### 🚫 **What You Cannot Do:**
-- Hold authors liable for damages
-- Use trademarks without permission
+#### Core Dependencies
+- **React** (MIT License) - Copyright (c) Facebook, Inc. and its affiliates
+- **TypeScript** (Apache-2.0 License) - Copyright (c) Microsoft Corporation
+- **Vite** (MIT License) - Copyright (c) 2019-present, Yuxi (Evan) You and Vite contributors
+- **Tailwind CSS** (MIT License) - Copyright (c) Tailwind Labs, Inc.
 
-### 💼 **Commercial Use Clarification:**
-- Can be used in proprietary software
-- No royalty payments required
-- Can be resold (but original license must remain)
+#### UI Libraries
+- **Lucide React** (ISC License) - Copyright (c) 2022, Lucide Contributors
+- **Framer Motion** (MIT License) - Copyright (c) 2018 Framer B.V.
+- **React Hook Form** (MIT License) - Copyright (c) 2019-present Beier(Bill) Luo
 
-### 🔄 **Modification Rules:**
-- Must document substantial changes
-- Can relicense YOUR modifications (but original remains MIT)
+#### Development Tools
+- **ESLint** (MIT License) - Copyright JS Foundation and other contributors
+- **Prettier** (MIT License) - Copyright © James Long and contributors
+- **PostCSS** (MIT License) - Copyright 2013 Andrey Sitnik <andrey@sitnik.ru>
 
-### 🌐 **Network Use Consideration:**
-- SaaS deployments are allowed
-- No requirement to disclose backend modifications
+### Font Licenses
 
----
+#### Inter Font
+- **License**: SIL Open Font License 1.1
+- **Copyright**: Copyright (c) 2016-2020 The Inter Project Authors
+- **URL**: https://github.com/rsms/inter/blob/master/LICENSE.txt
 
-## 📝 **Additional Legal Notes**
+### Asset Licenses
 
-1. **Patent Grant**: Implicit patent license for any patents held by the copyright holder
-2. **Compatibility**: Works with GPLv2 (but not GPLv3)
-3. **Trademarks**: Does not grant rights to use project names/logos
-4. **Liability**: As permitted by law, no liability for:
-   - Data loss
-   - System crashes
-   - Security breaches
-   - Financial losses
+#### Icons and Graphics
+- All custom icons and graphics created for this project are licensed under MIT License
+- Third-party icons from Lucide are licensed under ISC License
+- Any stock images or graphics used are properly licensed or in the public domain
 
----
+### Documentation License
 
-## ❓ **Frequently Asked Questions**
+The documentation for this project (including README.md, CONTRIBUTING.md, and other documentation files) is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-**Q: Can I use this in my company's internal tools?**  
-✅ Yes, with no restrictions
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose
 
-**Q: Do I need to open-source my modifications?**  
-❌ No, only if you distribute the software externally
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made
 
-**Q: Can I remove the copyright notice?**  
-🚫 Never - it must remain in all copies
+### Usage Guidelines
 
-**Q: Is attribution required?**  
-📛 Yes, in documentation or UI (recommended but not mandatory under MIT)
+#### Commercial Use
+This software is free for commercial use under the MIT License. You may:
+- Use it in commercial products
+- Sell products that include this software
+- Modify it for commercial purposes
+- Distribute it as part of commercial packages
 
-**Q: Can I sell this software?**  
-💰 Yes, but you cannot revoke the license for buyers
+#### Attribution Requirements
+While not legally required, we appreciate attribution when you use this software:
+- Include a link to the original repository
+- Mention the original author (Neeraj Upadhyay)
+- Include the MIT License notice in your documentation
 
----
+#### Trademark Notice
+"MUNC" and related trademarks are the property of Neeraj Upadhyay. Use of these trademarks requires explicit permission.
 
-📮 **For legal inquiries**: legal@munc-inventory.com  
-⚖️ **Last Updated**: June 2024
+### Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+### Limitation of Liability
+
+IN NO EVENT WILL THE AUTHORS, COPYRIGHT HOLDERS, OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+### Contact Information
+
+For questions about licensing, please contact:
+- **Email**: neerajupadhyay2004@gmail.com
+- **GitHub**: https://github.com/Neerajupadhayay2004
+- **Project Repository**: https://github.com/Neerajupadhayay2004/MUNC
+
+### License Updates
+
+This license may be updated from time to time. Any changes will be reflected in the repository and users will be notified through appropriate channels.
+
+Last updated: December 2024
