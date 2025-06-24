@@ -1,0 +1,92 @@
+MIT License
+
+Copyright (c) 2024 Neeraj Upadhyay (https://github.com/Neerajupadhayay2004)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. **Inclusion of Original License**  
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+2. **No Warranty**  
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+---
+
+## 📜 **Detailed Explanation for Developers**
+
+### ✅ **What You Can Do:**
+- **Use commercially**: Deploy in business environments
+- **Modify freely**: Adapt the code to your needs
+- **Distribute**: Share with others (even sell copies)
+- **Sublicense**: Include in your own projects
+- **Private use**: No obligation to share modifications
+
+### ⚠️ **What You Must Do:**
+- **Preserve notices**: Keep original copyright/license
+- **Add your copyright**: For significant modifications
+
+### 🚫 **What You Cannot Do:**
+- Hold authors liable for damages
+- Use trademarks without permission
+
+### 💼 **Commercial Use Clarification:**
+- Can be used in proprietary software
+- No royalty payments required
+- Can be resold (but original license must remain)
+
+### 🔄 **Modification Rules:**
+- Must document substantial changes
+- Can relicense YOUR modifications (but original remains MIT)
+
+### 🌐 **Network Use Consideration:**
+- SaaS deployments are allowed
+- No requirement to disclose backend modifications
+
+---
+
+## 📝 **Additional Legal Notes**
+
+1. **Patent Grant**: Implicit patent license for any patents held by the copyright holder
+2. **Compatibility**: Works with GPLv2 (but not GPLv3)
+3. **Trademarks**: Does not grant rights to use project names/logos
+4. **Liability**: As permitted by law, no liability for:
+   - Data loss
+   - System crashes
+   - Security breaches
+   - Financial losses
+
+---
+
+## ❓ **Frequently Asked Questions**
+
+**Q: Can I use this in my company's internal tools?**  
+✅ Yes, with no restrictions
+
+**Q: Do I need to open-source my modifications?**  
+❌ No, only if you distribute the software externally
+
+**Q: Can I remove the copyright notice?**  
+🚫 Never - it must remain in all copies
+
+**Q: Is attribution required?**  
+📛 Yes, in documentation or UI (recommended but not mandatory under MIT)
+
+**Q: Can I sell this software?**  
+💰 Yes, but you cannot revoke the license for buyers
+
+---
+
+📮 **For legal inquiries**: legal@munc-inventory.com  
+⚖️ **Last Updated**: June 2024
